@@ -11,7 +11,7 @@
   "description": "A simple persistent user settings framework.",
   "license": "ISC",
   "main": "index.js",
-  "name": "sharon-storage-provisional",
+  "name": "sharon-storage",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cryptosharon/sharon-storage.git"
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "node"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
